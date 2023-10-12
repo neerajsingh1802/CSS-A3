@@ -1,0 +1,113 @@
+body{
+    background-color: grey;
+}
+#a1{
+    height:110px;
+    width:350px;
+    border: 10px solid darkred;
+    border-radius: 20px;
+    background-color: white;
+    font-style: italic;
+    text-shadow: 4px 4px 5px brown;
+    text-align: center;
+    color: red;
+    padding: 16px;
+    font-size: 18px;
+    font-weight: bolder;
+    margin-left: 440px;
+    margin-bottom: -10px;
+
+}
+#a2{
+    border:10px solid green;
+    width: 99%;
+    height:600px;
+}
+.a1{
+    border: 10px solid red;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: 18px;
+    text-shadow: 4px 4px 5px purple;
+    height:200px;
+    width: 250px;
+    background-color: white;
+    text-align: center;
+}
+.a2{
+    border: 10px solid red;
+    background-color: white;
+    border-radius: 15px;
+    height:195px;
+    width: 250px;
+    background-color: white;
+    padding: 5px;
+    margin-left: 1038px;
+    margin-top: -218px;
+}
+.a3{
+    border: 10px solid red;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: 18px;
+    text-shadow: 4px 4px 5px purple;
+    height:200px;
+    width: 250px;
+    background-color: white;
+    text-align: start;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+.a4{
+    border: 10px solid red;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: 18px;
+    text-shadow: 4px 4px 5px purple;
+    height:200px;
+    width: 250px;
+    background-color: white;
+    text-align: center;
+    margin-left: 1048px;
+    margin-top: -210px;
+}
+#c1{
+    border: 10px solid purple;
+    height: 700px;
+    width: 60%;
+    background-color: green;
+    margin-left: 200px;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.c2{
+    height: 255px;
+    width:29%;
+    background-color: rgb(249, 246, 69);
+    text-align: center;
+    font-style: oblique;
+    font-weight: bolder;
+    margin-top: -640px;
+    margin-left: 210px;
+
+}
+.d1{
+    height: 255px;
+    width:29%;
+    background-color: rgb(249, 246, 69);
+    text-align: center;
+    font-style: oblique;
+    font-weight: bolder;
+    margin-top: -255px;
+    margin-left: 621px;
+}
+.d2{
+    height: 280px;
+    width:60%;
+    background-color: rgb(249, 246, 69);
+    text-align: center;
+    font-style: oblique;
+    font-weight: bolder;
+    margin-left: 210px;
+}
